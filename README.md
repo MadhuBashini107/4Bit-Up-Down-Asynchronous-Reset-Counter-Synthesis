@@ -19,6 +19,8 @@ Synthesis requires three files as follows,
 <img width="1913" height="1078" alt="Screenshot 2026-02-24 102211" src="https://github.com/user-attachments/assets/4bcecd79-6a87-4647-a996-e2789c098614" />
 
 
+
+
 ◦ Verilog/VHDL Files (.v or .vhdl or .vhd)
 **Design code**
 ```verilog
